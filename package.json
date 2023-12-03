@@ -12,7 +12,6 @@
   "dependencies": {
     "@opecgame/twapi": "^1.2.1",
     "fastify": "^4.24.3",
-    "fastify-cors": "^6.1.0",
     "firebase": "^10.7.0",
     "md5": "^2.3.0"
   }
